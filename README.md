@@ -443,10 +443,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 }
 #endif 
 ```
-## Output screen shots of proteus  :
+
+## Output screen shots of proteus
+
 ![image](https://github.com/user-attachments/assets/d66a186b-bd64-43b0-9c4e-625e409ad529)
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+
 ![image](https://github.com/user-attachments/assets/dd9d8794-19a7-41ba-a8bc-e41a2b52dde0)
 
 ## Result :
